@@ -1,4 +1,4 @@
-# 🧩 PRD: Agent 执行链路追踪系统
+# 🧩 PRD: Agent 可观测系统
 
 > 状态: Draft  
 > 负责人: evan.guo  
@@ -91,7 +91,7 @@
 
 ### 5.1 功能结构
 
-    Agent 执行链路追踪系统
+    Agent 可观测系统
     ├── 埋点规范与数据接入
     │   ├── OTel 埋点 SDK/约定
     │   ├── OTLP 接入
